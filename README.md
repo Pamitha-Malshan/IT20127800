@@ -50,14 +50,14 @@ You can click the Preview link to take a look at your changes.
 ## **3.  My Github Stats**
 
   <br/>
-    <a href="https://github.com/IT20127800/github-readme-stats"><img alt="YasiruWickramasinghe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YasiruWickramasinghe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
-  <a href="https://github.com/YasiruWickramasinghe/github-readme-stats"><img alt="Malith Anjana's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasiruWickramasinghe&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+    <a href="https://github.com/IT20127800/github-readme-stats"><img alt="Pamitha Malshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IT20127800&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
+  <a href="https://github.com/IT20127800/github-readme-stats"><img alt="Pamitha Malshan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT20127800&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=060A0CD0" /></a>
   <br/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/YasiruWickramasinghe/github-readme-activity-graph"><img alt="Malith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YasiruWickramasinghe&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/IT20127800/github-readme-activity-graph"><img alt="Malith's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IT20127800&bg_color=060A0CD0&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -65,6 +65,6 @@ You can click the Preview link to take a look at your changes.
 
 ## **4. ❤ Views and Followers**
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=YasiruWickramasinghe">
+    <img src="https://komarev.com/ghpvc/?username=IT20127800">
 </a>
-<a href="https://github.com/YasiruWickramasinghe?tab=followers"><img src="https://img.shields.io/github/followers/YasiruWickramasinghe?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/IT20127800?tab=followers"><img src="https://img.shields.io/github/followers/IT20127800?label=Followers&style=social" alt="GitHub Badge"></a>
