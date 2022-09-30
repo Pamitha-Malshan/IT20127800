@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
     <a href="https://github.com/IT20127800/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Malith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YasiruWickramasinghe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Pamitha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=IT20127800&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
